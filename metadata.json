@@ -1,0 +1,7 @@
+{
+  "name": "DocuAudio: Document to Speech",
+  "description": "An application that uses AI to extract text from documents (via upload or camera) and reads it aloud, making written content accessible to everyone.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

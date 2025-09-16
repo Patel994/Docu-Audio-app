@@ -1,0 +1,23 @@
+{
+  "short_name": "DocuAudio",
+  "name": "DocuAudio: Document to Speech",
+  "description": "An application that uses AI to extract text from documents (via upload or camera) and reads it aloud, making written content accessible to everyone.",
+  "icons": [
+    {
+      "src": "assets/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#f8fafc"
+}
